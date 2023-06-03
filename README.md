@@ -4,8 +4,9 @@
 - Ex Data Scientist currently Data Engineer
 - 👀 My main interests are/the repos are related to:
   - Machine Learning 🎰
-  - Web dev 🕸️
-  - Blockchain development
+  - Virtualisation of compute (especially GPUs)
+  - Web dev 🕸️ (need to write my own web framework some day)
+  - Building stuff that matters
 
 - 📫 Reach me at [@ErikKaum](https://twitter.com/ErikKaum)
 
